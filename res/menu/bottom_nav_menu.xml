@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/FirstFragment"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="Ипотека" />
+    <item
+        android:id="@+id/CarLoanFragment"
+        android:icon="@android:drawable/ic_menu_directions"
+        android:title="Автокредит" />
+    <item
+        android:id="@+id/BudgetFragment"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="Бюджет" />
+</menu>

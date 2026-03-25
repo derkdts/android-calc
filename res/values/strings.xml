@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Расчеты++</string>
+    <string name="action_about">О программе</string>
+    <string name="about_title">О программе</string>
+    <string name="about_creator">Создано: Derk</string>
+    <string name="about_github">GitHub: derkdts/android-calc</string>
+
+    <string name="property_price">Стоимость недвижимости (₸)</string>
+    <string name="down_payment">Первоначальный взнос (₸)</string>
+    <string name="interest_rate">Процентная ставка (%)</string>
+    <string name="loan_term">Срок кредита (лет)</string>
+    <string name="calculate">Рассчитать</string>
+    <string name="result_format">Ежемесячный платеж: %s ₸</string>
+    <string name="error_principal">Сумма кредита должна быть больше 0</string>
+    <string name="error_rate">Ставка должна быть больше 0</string>
+    <string name="error_term">Срок должен быть больше 0</string>
+
+    <string name="payment_type">Тип платежа</string>
+    <string name="annuity">Аннуитетный</string>
+    <string name="differentiated">Дифференцированный</string>
+    <string name="show_schedule">Посмотреть график платежей</string>
+
+    <string name="schedule_item_format">Месяц %1$d: %2$.2f (Осн. долг: %3$.2f, Проценты: %4$.2f)</string>
+
+    <string name="first_fragment_label">Ипотека</string>
+    <string name="second_fragment_label">График платежей</string>
+    <string name="income_expense_label">Бюджет</string>
+
+    <string name="income_hint">Общий доход в месяц (₸)</string>
+    <string name="loan_payment_hint">Платеж по кредиту (₸)</string>
+
+    <string name="envelope_food">Продукты и питание (₸)</string>
+    <string name="envelope_communal">Коммунальные услуги (₸)</string>
+    <string name="envelope_transport">Транспорт / Бензин (₸)</string>
+    <string name="envelope_other">Прочие расходы (₸)</string>
+
+    <string name="free_balance_result">Свободный остаток: %s ₸</string>
+    <string name="total_expenses_result">Всего расходов: %s ₸</string>
+
+    <string name="next">Далее</string>
+    <string name="previous">Назад</string>
+</resources>
